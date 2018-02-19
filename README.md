@@ -14,6 +14,4 @@
 
 
 <center>
-<img src="http://img.blog.csdn.net/20180219025149679" width="50%" height="50%" />
-$ $
-**Chinar**</center>
+<img src="http://img.blog.csdn.net/20180219025149679" width="11%" height="11%" /></center>
