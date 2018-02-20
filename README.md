@@ -14,4 +14,7 @@
 
 
 <center>
-<img src="http://img.blog.csdn.net/20180219025149679" width="11%" height="11%" /></center>
+<img src="https://github.com/ChinarG/TUTORIAL--Costume-Change/blob/master/zhutouChinar.jpg?raw=true" width="11%" height="11%" $ $ />
+</center>
+
+**Chinar**
